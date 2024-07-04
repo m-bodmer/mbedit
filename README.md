@@ -14,7 +14,8 @@ A lightweight, web-based text editor built with TypeScript.
 ## Getting Started
 
 1. Clone the repository
-2. TBD
+2. `npm install`
+3. `npm run dev`
 
 ## License
 
