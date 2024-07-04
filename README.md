@@ -1,4 +1,5 @@
 # MBEdit
+
 A lightweight, web-based text editor built with TypeScript.
 
 ## Features
